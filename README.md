@@ -1,4 +1,4 @@
-# HR_attrition_dashboard
+# HR Attrition Analysis
 
 
 ![Screenshot 2024-02-03 165020](https://github.com/Arunava197/HR_attrition_dashboard/assets/160317839/f8f92812-097d-4f72-8e68-ea65fef8f15d)
